@@ -1,1 +1,1 @@
-# japan-temp-dashbord
+# japan-temp-dashboard
